@@ -8,9 +8,12 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Cadastro de Funcionario</h1>
         
-        <form action="NewServlet" method="post" id="form">
+        
+        
+        <!-- <h1>Cadastro de Funcionario</h1>
+        
+       <form action="NewServlet" method="post" id="form">
             <input type="hidden" name="codigo" value="" />
             <fieldset id="formulario"><legend>Dados</legend>
                 <table>
@@ -31,6 +34,6 @@
                     </tr>
                 </table>
             </fieldset>
-        </form>
+        </form> -->
     </body>
 </html>

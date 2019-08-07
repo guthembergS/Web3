@@ -22,14 +22,9 @@ public class NewServlet extends HttpServlet {
     protected void doPost(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
         String chamada;
-        chamada = "entrou aqui";  
+        chamada = "entrou aqui";
         
         doGet(request, response);
-    }
-
-   public static void main(String[] args) {
-        
-        System.out.println("");
     }
 
 }
